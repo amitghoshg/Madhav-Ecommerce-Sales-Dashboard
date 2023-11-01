@@ -1,7 +1,8 @@
 # Madhav-Ecommerce-Sales-Dashboard
 
 I am thrilled to present a project that I recently undertook, involving the development of a dynamic Power BI Dashboard for Madhav Ecommerce Sales. This project aimed to revolutionize how the company analyses its sales data and gain actionable insights to enhance its operations and profitability.
-Project Overview: Madhav Ecommerce Sales is a growing player in the ecommerce industry, catering to a diverse range of products. To remain competitive and make informed decisions, they required a robust data analytics solution. In response, I crafted a comprehensive Power BI Dashboard to visualize their sales data and provide clear, actionable insights.
+
+Project Overview: Madhav Ecommerce is a growing player in the ecommerce industry, catering to a diverse range of products. To remain competitive and make informed decisions, they required a robust data analytics solution. In response, I crafted a comprehensive Power BI Dashboard to visualize their sales data and provide clear, actionable insights.
 
 Key Achievements:
 1.	Data Integration: I collected data from various sources, including profit, payment mode, category, quantity etc. Using Power Query, I cleaned and transformed the data, ensuring its accuracy and reliability.
