@@ -5,7 +5,7 @@ I am thrilled to present a project that I recently undertook, involving the deve
 Project Overview: Madhav Ecommerce is a growing player in the ecommerce industry, deals on diverse range of products. To remain competitive and make informed decisions, they required a robust data analytics solution. In response, I crafted a comprehensive Power BI Dashboard to visualize their sales data and provide clear, actionable insights.
 
 Key Achievements:
-1.	Data Integration: I collected data from various sources, including profit, payment mode, category, quantity etc. Using Power Query, 
+1.	Data Integration: I collected data from various sources, including profit, payment mode, category, quantity etc. Using Power Query,
                       I cleaned and transformed the data, ensuring its accuracy and reliability.
 2.	Interactive Visualization: The core of this project was the creation of visually appealing and interactive charts, graphs, and 
                       tables in Power BI. These visualizations allowed stakeholders to explore sales trends, customer segments, and 
